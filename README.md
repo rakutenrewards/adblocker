@@ -1,2 +1,2 @@
-# adblocker
-Ad Blocker for Rakuten.com
+# Allow-list for Button
+
